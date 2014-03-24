@@ -25,7 +25,7 @@ A selection of some of my work.
    <tr style='background-color: white;'><td><a href='http://ui3.info/d/proj/scripts.html'>scripts</a></td><td>Miscellaneous scripts (bash, Haskell, Perl)</td><td><a href='http://ui3.info/darcs/scripts'>source</a></td></tr>
    <tr style='background-color: #EDEAE1;'><td><a href='http://ui3.info/d/proj/spectrahex.html'>spectrahex</a></td><td>Colored hexes puzzle game (Android, Scala)</td><td><a href='http://ui3.info/darcs/spectrahex'>source</a></td></tr>
    <tr style='background-color: white;'><td><a href='http://ui3.info/d/proj/sshtun.html'>sshtun</a></td><td>Wrapper daemon to manage an ssh tunnel (Haskell)</td><td><a href='http://ui3.info/darcs/sshtun'>source</a></td></tr>
-   <tr style='background-color: #EDEAE1;'><td><a href='http://ui3.info/d/proj/timesheet.html'>timesheet</a></td><td>Add up timesheet values</td><td><a href='http://ui3.info/darcs/timesheet'>source</a></td></tr>
+   <tr style='background-color: #EDEAE1;'><td><a href='http://ui3.info/d/proj/timesheet.html'>timesheet</a></td><td>Add up timesheet values (Haskell)</td><td><a href='http://ui3.info/darcs/timesheet'>source</a></td></tr>
    <tr style='background-color: white;'><td><a href='http://ui3.info/d/proj/uacpid.html'>uacpid</a></td><td>Userspace Advanced Configuration and Power Interface event daemon (Haskell)</td><td><a href='http://ui3.info/darcs/uacpid'>source</a></td></tr>
    <tr style='background-color: #EDEAE1;'><td><a href='http://ui3.info/d/proj/wallaby.html'>wallaby</a></td><td>Wallpaper picker app (Android, Java)</td><td><a href='http://ui3.info/darcs/wallaby'>source</a></td></tr>
 </table>
