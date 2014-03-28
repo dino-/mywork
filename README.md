@@ -47,5 +47,6 @@ Each of these source links above is also the URL for cloning the source code wit
 
 my email: Dino Morelli <[dino@ui3.info](mailto:dino@ui3.info)>  
 [my projects web page](http://ui3.info/d/)  
-[my resume](http://ui3.info/d/cv-MorelliD.txt)
+my resume: [html](http://ui3.info/d/cv-DinoMorelli.html)
+or [markdown](http://ui3.info/d/cv-DinoMorelli.md)
 
