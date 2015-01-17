@@ -19,11 +19,11 @@ If you'd like, [browse everything](http://ui3.info/darcs/) we've got in source c
 
 ## Participating
 
-These projects are maintained using very powerful distributed version control software called [darcs](http://darcs.net/). It's available for the major platforms.
+These projects are maintained using very powerful distributed version control software called [darcs](http://darcs.net/) and hosted at [darcshub](http://hub.darcs.net). darcs is available for the major platforms.
 
 Each of these source links above is also the URL for cloning the source code with darcs. Like this:
 
->     $$ darcs get http://ui3.info/darcs/epub-tools
+>     $$ darcs get http://hub.darcs.net/dino/epub-tools
 
 
 ## Contact
