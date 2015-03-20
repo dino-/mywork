@@ -29,8 +29,10 @@ A selection of some of my more recent work.
    <tr style='background-color: white;'><td><a href='http://hub.darcs.net/dino/scripts'>scripts</a></td><td>Miscellaneous scripts (bash, Haskell, Perl)</td><td><a href='http://hub.darcs.net/dino/scripts'>source</a></td></tr>
    <tr style='background-color: #EDEAE1;'><td><a href='http://hub.darcs.net/dino/spectrahex'>spectrahex</a></td><td>Colored hexes puzzle game (Android, Scala)</td><td><a href='http://hub.darcs.net/dino/spectrahex'>source</a></td></tr>
    <tr style='background-color: white;'><td><a href='http://hub.darcs.net/dino/sshtun'>sshtun</a></td><td>Wrapper daemon to manage an ssh tunnel (Haskell)</td><td><a href='http://hub.darcs.net/dino/sshtun'>source</a></td></tr>
-   <tr style='background-color: #EDEAE1;'><td><a href='http://hub.darcs.net/dino/timesheet'>timesheet</a></td><td>Add up timesheet values (Haskell)</td><td><a href='http://hub.darcs.net/dino/timesheet'>source</a></td></tr>
-   <tr style='background-color: white;'><td><a href='http://hub.darcs.net/dino/uacpid'>uacpid</a></td><td>Userspace Advanced Configuration and Power Interface event daemon (Haskell)</td><td><a href='http://hub.darcs.net/dino/uacpid'>source</a></td></tr>
+   <tr style='background-color: #EDEAE1;'><td><a href='http://hub.darcs.net/dino/tce-game'>tce-game</a></td><td>Game mechanics library and related work</td><td><a href='http://hub.darcs.net/dino/tce-game'>source</a></td></tr>
+   <tr style='background-color: white;'><td><a href='http://hub.darcs.net/dino/timesheet'>timesheet</a></td><td>Add up timesheet values (Haskell)</td><td><a href='http://hub.darcs.net/dino/timesheet'>source</a></td></tr>
+   <tr style='background-color: #EDEAE1;'><td><a href='http://hub.darcs.net/dino/uacpid'>uacpid</a></td><td>Userspace Advanced Configuration and Power Interface event daemon (Haskell)</td><td><a href='http://hub.darcs.net/dino/uacpid'>source</a></td></tr>
+   <tr style='background-color: white;'><td><a href='http://hub.darcs.net/dino/uuid-example'>uuid-example</a></td><td>Simple Data.UUID usage example</td><td><a href='http://hub.darcs.net/dino/uuid-example'>source</a></td></tr>
    <tr style='background-color: #EDEAE1;'><td><a href='http://hub.darcs.net/dino/wallaby'>wallaby</a></td><td>Wallpaper picker app (Android, Java)</td><td><a href='http://hub.darcs.net/dino/wallaby'>source</a></td></tr>
 </table>
 
