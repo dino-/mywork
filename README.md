@@ -40,6 +40,7 @@ A selection of some of my more recent work.
    <tr style='background-color: #EDEAE1;'><td><a href='http://hub.darcs.net/dino/uacpid'>uacpid</a></td><td>Userspace Advanced Configuration and Power Interface event daemon (Haskell)</td><td><a href='http://hub.darcs.net/dino/uacpid'>source</a></td></tr>
    <tr style='background-color: white;'><td><a href='http://hub.darcs.net/dino/uuid-example'>uuid-example</a></td><td>Simple Data.UUID usage example (Haskell)</td><td><a href='http://hub.darcs.net/dino/uuid-example'>source</a></td></tr>
    <tr style='background-color: #EDEAE1;'><td><a href='http://hub.darcs.net/dino/wallaby'>wallaby</a></td><td>Wallpaper picker app (Android, Java)</td><td><a href='http://hub.darcs.net/dino/wallaby'>source</a></td></tr>
+   <tr style='background-color: white;'><td><a href='http://hub.darcs.net/dino/xmonad-xmobar-config'>xmonad-xmobar-config</a></td><td>My personal xmonad and xmobar configuration (Haskell)</td><td><a href='http://hub.darcs.net/dino/xmonad-xmobar-config'>source</a></td></tr>
 </table>
 
 
